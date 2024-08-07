@@ -1,2 +1,2 @@
 # Myntra-Clone-Project
-A Myntra clone project using HTML and CSS replicates Myntra's e-commerce front-end with a responsive, stylish UI. It involves using HTML for structure and CSS for styling to create a functional, device-compatible interface.
+A Myntra clone project using HTML and CSS is a web development project that aims to replicate the front-end design and layout of the Myntra e-commerce platform. This project typically involves creating a responsive and visually appealing user interface that mimics Myntra’s style. The focus is on using HTML for structuring the content and CSS for styling and layout, ensuring that the clone looks similar to the original site while being functional across different devices.
